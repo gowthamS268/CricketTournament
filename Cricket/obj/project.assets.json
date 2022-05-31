@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gowthaman.s/RiderProjects/EverestCricket/Cricket/Cricket.csproj",
+      "projectUniqueName": "/Users/gowthaman.s/RiderProjects/CricketTournament/Cricket/Cricket.csproj",
       "projectName": "Cricket",
-      "projectPath": "/Users/gowthaman.s/RiderProjects/EverestCricket/Cricket/Cricket.csproj",
+      "projectPath": "/Users/gowthaman.s/RiderProjects/CricketTournament/Cricket/Cricket.csproj",
       "packagesPath": "/Users/gowthaman.s/.nuget/packages/",
-      "outputPath": "/Users/gowthaman.s/RiderProjects/EverestCricket/Cricket/obj/",
+      "outputPath": "/Users/gowthaman.s/RiderProjects/CricketTournament/Cricket/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gowthaman.s/.nuget/NuGet/NuGet.Config"

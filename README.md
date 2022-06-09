@@ -353,7 +353,7 @@ $ dotnet build
 ### Run the tests
 
 ```console
-$ dotnet test Cricket.Tests
+$ dotnet test CricketTest
 ```
 
 ### Run the application
